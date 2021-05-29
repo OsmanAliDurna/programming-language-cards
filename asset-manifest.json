@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/programming-language-cards/static/css/main.ce50291d.chunk.css",
+    "main.js": "/programming-language-cards/static/js/main.ccd2b79a.chunk.js",
+    "main.js.map": "/programming-language-cards/static/js/main.ccd2b79a.chunk.js.map",
+    "runtime-main.js": "/programming-language-cards/static/js/runtime-main.cca7ff09.js",
+    "runtime-main.js.map": "/programming-language-cards/static/js/runtime-main.cca7ff09.js.map",
+    "static/js/2.3979caaf.chunk.js": "/programming-language-cards/static/js/2.3979caaf.chunk.js",
+    "static/js/2.3979caaf.chunk.js.map": "/programming-language-cards/static/js/2.3979caaf.chunk.js.map",
+    "static/js/3.64a55b8f.chunk.js": "/programming-language-cards/static/js/3.64a55b8f.chunk.js",
+    "static/js/3.64a55b8f.chunk.js.map": "/programming-language-cards/static/js/3.64a55b8f.chunk.js.map",
+    "index.html": "/programming-language-cards/index.html",
+    "static/css/main.ce50291d.chunk.css.map": "/programming-language-cards/static/css/main.ce50291d.chunk.css.map",
+    "static/js/2.3979caaf.chunk.js.LICENSE.txt": "/programming-language-cards/static/js/2.3979caaf.chunk.js.LICENSE.txt",
+    "static/media/cpp.c0a0d2fd.png": "/programming-language-cards/static/media/cpp.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/programming-language-cards/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/programming-language-cards/static/media/go.a0b3b49a.png",
+    "static/media/java.a507ef79.png": "/programming-language-cards/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/programming-language-cards/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/programming-language-cards/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/programming-language-cards/static/media/python.40f1d1b1.png",
+    "static/media/react.7b78f5c3.svg": "/programming-language-cards/static/media/react.7b78f5c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca7ff09.js",
+    "static/js/2.3979caaf.chunk.js",
+    "static/css/main.ce50291d.chunk.css",
+    "static/js/main.ccd2b79a.chunk.js"
+  ]
+}
